@@ -8,3 +8,14 @@ h1{
 .Name{
     color: blue;
 }
+.Half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.Half img{
+    width: 100%;
+
+
+}
